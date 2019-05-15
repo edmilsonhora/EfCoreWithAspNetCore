@@ -1,0 +1,9 @@
+C:\Users\EDMILSON.SILVA\source\repos\EFcoreWithAspNetcore\EFcoreWithAspNetcore.Domain\bin\Debug\netcoreapp2.1\EFcoreWithAspNetcore.Domain.deps.json
+C:\Users\EDMILSON.SILVA\source\repos\EFcoreWithAspNetcore\EFcoreWithAspNetcore.Domain\bin\Debug\netcoreapp2.1\EFcoreWithAspNetcore.Domain.dll
+C:\Users\EDMILSON.SILVA\source\repos\EFcoreWithAspNetcore\EFcoreWithAspNetcore.Domain\obj\Debug\netcoreapp2.1\EFcoreWithAspNetcore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EDMILSON.SILVA\source\repos\EFcoreWithAspNetcore\EFcoreWithAspNetcore.Domain\obj\Debug\netcoreapp2.1\EFcoreWithAspNetcore.Domain.AssemblyInfoInputs.cache
+C:\Users\EDMILSON.SILVA\source\repos\EFcoreWithAspNetcore\EFcoreWithAspNetcore.Domain\obj\Debug\netcoreapp2.1\EFcoreWithAspNetcore.Domain.AssemblyInfo.cs
+C:\Users\EDMILSON.SILVA\source\repos\EFcoreWithAspNetcore\EFcoreWithAspNetcore.Domain\obj\Debug\netcoreapp2.1\EFcoreWithAspNetcore.Domain.csprojAssemblyReference.cache
+C:\Users\EDMILSON.SILVA\source\repos\EFcoreWithAspNetcore\EFcoreWithAspNetcore.Domain\bin\Debug\netcoreapp2.1\EFcoreWithAspNetcore.Domain.pdb
+C:\Users\EDMILSON.SILVA\source\repos\EFcoreWithAspNetcore\EFcoreWithAspNetcore.Domain\obj\Debug\netcoreapp2.1\EFcoreWithAspNetcore.Domain.dll
+C:\Users\EDMILSON.SILVA\source\repos\EFcoreWithAspNetcore\EFcoreWithAspNetcore.Domain\obj\Debug\netcoreapp2.1\EFcoreWithAspNetcore.Domain.pdb
